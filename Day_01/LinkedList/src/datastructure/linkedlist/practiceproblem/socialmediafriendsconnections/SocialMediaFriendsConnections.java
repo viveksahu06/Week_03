@@ -1,3 +1,17 @@
+//Singly Linked List: Social Media Friend Connections
+//Problem Statement: Create a system to manage social media friend connections using a singly linked list. Each node represents a user with User ID, Name, Age, and List of Friend IDs. Implement the following operations:
+//Add a friend connection between two users.
+//Remove a friend connection.
+//Find mutual friends between two users.
+//Display all friends of a specific user.
+//        Search for a user by Name or User ID.
+//Count the number of friends for each user.
+//Hint:
+//Use a singly linked list where each node contains a list of friends (which can be another linked list or array of Friend IDs).
+//For mutual friends, traverse both lists and compare the Friend IDs.
+//The List of Friend IDs for each user can be implemented as a nested linked list or array.
+
+
 package datastructure.linkedlist.practiceproblem.socialmediafriendsconnections;
 
 public class SocialMediaFriendsConnections {
