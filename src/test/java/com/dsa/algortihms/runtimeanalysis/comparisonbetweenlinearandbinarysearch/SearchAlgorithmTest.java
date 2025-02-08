@@ -1,4 +1,4 @@
-package comparisonbetweenlinearandbinarysearch;
+package com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch;
 
 import com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch.BinarySearch;
 import com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch.LinearSearch;
