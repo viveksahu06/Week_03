@@ -1,7 +1,5 @@
 package com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch;
 
-import com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch.BinarySearch;
-import com.dsa.algortihms.runtimeanalysis.comparisonbetweenlinearandbinarysearch.LinearSearch;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
