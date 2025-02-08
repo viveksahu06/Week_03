@@ -47,7 +47,7 @@ public class SearchATargetInLargeDataSet {
 
             //for binarySearch
             startingTime= System.nanoTime();
-            result= LinearSearch.linearSearch(dataArray,key);
+            result= BinarySearch.binarySearch(dataArray,key);
             long binaryTime = System.nanoTime() - startingTime;
 
             //displaying the result
