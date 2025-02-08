@@ -27,7 +27,7 @@ import java.util.Random;
 public class SearchATargetInLargeDataSet {
     public static void main(String[] args) {
         //size array as per requirement
-        int size[]={1000,10000,100000};
+        int size[]={1000,10000,1000000};
         Random random = new Random();
         //for different cases
         for(int i=0;i< size.length ;i++){

@@ -19,7 +19,7 @@ import java.util.Random;
 
 public class SortingLargeDataEfficiently {
     public static void main(String[] args) {
-        int sizes[]= {1000, 10000, 100000};
+        int sizes[]= {1000, 10000, 1000000};
         Random random = new Random();
         for(int size : sizes){
             int []dataArray = new int[size];

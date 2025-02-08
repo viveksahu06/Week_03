@@ -20,7 +20,7 @@ package com.dsa.algortihms.runtimeanalysis.stringconcatenationperformance;
 public class StringConcatenationPerformance {
     public static void main(String[] args) {
         //declaring different size array
-        int sizes[]={1000, 10000, 100000};
+        int sizes[]={1000, 10000, 1000000};
         //iterate over size array for different sizes
         for(int size : sizes){
             System.out.println("DataSet Size: "+size);
